@@ -1,0 +1,1 @@
+this a face recognition code using opencv and HAARcascade
