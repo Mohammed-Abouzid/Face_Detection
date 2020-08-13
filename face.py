@@ -8,7 +8,7 @@
 
 import cv2; import numpy as np
 """
-this face recognition code
+this face detection code
 """
 
 
