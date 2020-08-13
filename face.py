@@ -4,7 +4,6 @@
 # In[1]:
 
 
-#face Recognition
 
 import cv2; import numpy as np
 """
