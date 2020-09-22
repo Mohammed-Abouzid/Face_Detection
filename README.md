@@ -1,1 +1,1 @@
-this is a face recognition python code using opencv and HAARcascade
+this is a face detection python code using opencv and HAARcascade
